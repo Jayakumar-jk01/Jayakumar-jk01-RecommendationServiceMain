@@ -1,5 +1,7 @@
 Setup Instruction for the project:
+
 1.download the zip file (from github)
+
 2.unzip it
 3.open the project using an ide (Intelij)
 4.start/run the application (application runs at port no :8080)
